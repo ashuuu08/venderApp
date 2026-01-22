@@ -65,6 +65,17 @@ A role-based **Dispatch Management System** that simulates a full-stack workflow
    * Appears in History.
 
 ---
+## Screenshots
+
+
+![Login Page](src/assets/Screenshot 2026-01-22 062821.png)
+![Login Page]()
+![Login Page]()
+![Login Page]()
+![Login Page]()
+![Login Page]()
+![Login Page]()
+
 
 ## 🏗 Architecture & Data Flow
 
