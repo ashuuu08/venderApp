@@ -65,19 +65,18 @@ A role-based **Dispatch Management System** that simulates a full-stack workflow
    * Appears in History.
 
 ---
-## Screenshots
+## 📸 Screenshots
+
 ![Login Page](./src/assets/01.png)
-![Login Page](./src/assets/02.png)
-![Login Page](./src/assets/03.png)
-![Login Page](./src/assets/04.png)
-![Login Page](./src/assets/05.png)
-![Login Page](./src/assets/06.png)
-![Login Page](./src/assets/07.png)
-![Login Page](./src/assets/08.png)
-![Login Page](./src/assets/09.png)
-![Login Page](./src/assets/10.png)
-
-
+![Admin Dashboard](./src/assets/02.png)
+![Orders](./src/assets/03.png)
+![Pre Dispatch](./src/assets/04.png)
+![Dispatch](./src/assets/05.png)
+![History](./src/assets/06.png)
+![Mobile View](./src/assets/07.png)
+![User Orders](./src/assets/08.png)
+![Approval](./src/assets/09.png)
+![Completed](./src/assets/10.png)
 
 
 
