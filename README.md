@@ -66,7 +66,7 @@ A role-based **Dispatch Management System** that simulates a full-stack workflow
 
 ---
 ## Screenshots
-![Login Page](src/assets/Screenshot%202026-01-22%20062821.png)
+![Login Page](src/assets/01.png)
 
 
 
